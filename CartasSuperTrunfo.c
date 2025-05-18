@@ -280,7 +280,7 @@ int main() {
         
         printf("============================================\n");
         printf("Placar Final:\n");
-        printf("%s %d X %s %d\n", carta1_pais, carta1_pontos, carta2_pontos, carta2_pais);
+        printf("%s %d X %d %s\n", carta1_pais, carta1_pontos, carta2_pontos, carta2_pais);
         // printf("%s: %d\n", carta2_pais, carta2_pontos);
 
         // Determinação do vencedor pela soma dos atributos
